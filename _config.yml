@@ -2,6 +2,7 @@ name: Toci
 favicon: null
 layout_spectrum: 0.008776561357080936
 typography_spectrum: 0.3261308332439512
+title: toci.xyz
 cta:
   domain: null
   bucket: null
