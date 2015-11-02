@@ -1,0 +1,23 @@
+name: Toci
+favicon: null
+layout_spectrum: 0.008776561357080936
+typography_spectrum: 0.3261308332439512
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.12435596785508096
+  lightness: 0.017405792139470577
+  saturation: 0.7545020210091025
+  rhythmicContrast: 0.28206017799675465
+purpose: []
