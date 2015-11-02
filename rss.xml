@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Toci]]></title>
+        <description><![CDATA[Toci]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 Nov 2015 16:32:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Toci]]></title>
+            <description><![CDATA[<article><h1>Toci</h1><p>Toci is a health company dedicated to provide personalized nutritional supplements to clients. </p></article>]]></description>
+            <link>undefinedtoci/index.html</link>
+            <guid isPermaLink="false">f889512b-3d72-4636-b10d-2e850e403d29</guid>
+            <pubDate>Mon, 02 Nov 2015 16:32:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
