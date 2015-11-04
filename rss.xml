@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Toci]]></title>
-        <description><![CDATA[Toci]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[toci.xyz]]></title>
+        <description><![CDATA[toci.xyz]]></description>
+        <link>https://thegrid.ai/toci/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 16:32:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 Nov 2015 16:56:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/toci/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://previews.123rf.com/images/everythingpossible/everythingpossible1305/everythingpossible130500289/19646665-Medicine-doctor-hand-working-with-modern-computer-interface-as-medical-concept-Stock-Photo.jpg">]]></description>
+            <link>https://thegrid.ai/toci/c21eff75-81d5-4af3-a3bc-a33832acbe8b/index.html</link>
+            <guid isPermaLink="false">c21eff75-81d5-4af3-a3bc-a33832acbe8b</guid>
+            <pubDate>Wed, 04 Nov 2015 16:56:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Toci]]></title>
             <description><![CDATA[<article><h1>Toci</h1><p>Toci is a health company dedicated to provide personalized nutritional supplements to clients. </p></article>]]></description>
-            <link>undefinedtoci/index.html</link>
+            <link>https://thegrid.ai/toci/toci/index.html</link>
             <guid isPermaLink="false">f889512b-3d72-4636-b10d-2e850e403d29</guid>
             <pubDate>Mon, 02 Nov 2015 16:32:14 GMT</pubDate>
         </item>
