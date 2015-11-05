@@ -4,7 +4,7 @@
         <description><![CDATA[toci.xyz]]></description>
         <link>https://thegrid.ai/toci/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 18:58:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2015 16:06:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/toci/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -29,10 +29,10 @@
         </item>
         <item>
             <title><![CDATA[Toci]]></title>
-            <description><![CDATA[<article><h1>Toci</h1><p>Toci is a health company dedicated to provide personalized nutritional supplements to our clients. Our unique health platform works with physicians to help them plan, follow, and record the best supplement regime for their patients. The data collected from those patients by their doctor is then used by our specialized algorithm to determine the best nutritional supplement for you. The nutritional supplement is then packaged in labeled bags, one per day, and shipped to your house. </p></article>]]></description>
+            <description><![CDATA[<article><h1>Toci</h1><p>Toci is a health company dedicated to provide personalized nutritional solutions to our clients. Our unique health platform works with physicians to help them plan, follow, and record the best supplement regime for their patients. The platform then utilizes all the data collected to analyze supplement effectiveness and compatibility.  New supplement analysis information is used to create a much more precise Nutrient Recommendation System (NRS). When a client wants to become part of  Toci, she fills out a survey. This survey is then compared to our database. With this information, the NRS creates a supplement regime personalized exclusively for you. We here at Toci then pack the pills into small, labeled bags. You receive 30 bags per package, one per day. </p></article>]]></description>
             <link>https://thegrid.ai/toci/toci/index.html</link>
             <guid isPermaLink="false">f889512b-3d72-4636-b10d-2e850e403d29</guid>
-            <pubDate>Wed, 04 Nov 2015 17:12:24 GMT</pubDate>
+            <pubDate>Thu, 05 Nov 2015 16:05:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
