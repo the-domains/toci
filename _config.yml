@@ -1,6 +1,6 @@
 name: Toci
 favicon: null
-layout_spectrum: 0.49375
+layout_spectrum: 0.33625
 typography_spectrum: 0.33113
 title: toci.xyz
 cta:
@@ -22,8 +22,8 @@ color:
     - '#8cdafe'
     - '#85b0d3'
     - '#4e6a80'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.75
+  brandStrength: 0.3125
+  lightness: 0.0625
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
